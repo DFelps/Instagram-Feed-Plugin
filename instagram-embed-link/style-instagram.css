@@ -1,0 +1,13 @@
+.instagram-frame{
+    width: 550px;
+    height: 878px;
+}
+.instagram-frame .embed{
+    display: flex;
+}
+
+@media only screen and (max-width: 620px) {
+    .instagram-frame{
+        width: 100%;
+    }
+}
